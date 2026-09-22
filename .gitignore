@@ -1,0 +1,7 @@
+# Ce que Git doit ignorer
+code-wifi.txt
+*.tmp >> .gitignore
+cat .gitignore
+git status 
+
+echo *.tmp
